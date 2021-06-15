@@ -8,13 +8,13 @@
 
 🍹 I'm an avid craft cocktail hobbyist and at any time have a large amount of homemade liqueurs, infusions, and syrups. [Check out some of my stuff here](https://instagram.com/livelylivers). As a result, when experimenting with new technologies, I use a cocktail recipe database as my go to example application.
 
-🧩 I can solve a Rubik's cube in under 1 minute and 15 seconds. Working on getting below 1 minute.
+🧩 I can solve a Rubik's cube in under 1 minute and 15 seconds. Working on getting below 1 minute 😤!
 
 ### 🏆 Certifications
-![https://www.credly.com/badges/2e49195c-027d-4a65-aa97-33c44379cff8/public_url](https://img.shields.io/badge/Cisco%20DevNet%20-%20Professional-05122A?style=for-the-badge&logo=cisco)
+<a href="https://www.credly.com/badges/2e49195c-027d-4a65-aa97-33c44379cff8/public_url"><img alt="Cisco DevNet Professional" src="https://img.shields.io/badge/Cisco%20DevNet%20-%20Professional-05122A?style=for-the-badge&logo=cisco"/></a>
 ![DevNet 500](https://img.shields.io/badge/Cisco%20DevNet%20-%20500-05122A?style=for-the-badge&logo=cisco)
-![https://www.credly.com/badges/6b8ba37d-afa3-4fcc-927f-3a40a7c8eefc/public_url](https://img.shields.io/badge/CCIE%20Security%20-%2356911-05122A?style=for-the-badge&logo=cisco)
-![https://www.credly.com/badges/6b8ba37d-afa3-4fcc-927f-3a40a7c8eefc/public_url](https://img.shields.io/badge/CCNP-R&S-05122A?style=for-the-badge&logo=cisco)
+<a href="https://www.credly.com/badges/6b8ba37d-afa3-4fcc-927f-3a40a7c8eefc/public_url"><img alt="Cisco Certified Internetworking Expert (CCIE) Security #56911" src="https://img.shields.io/badge/CCIE%20Security%20-%2356911-05122A?style=for-the-badge&logo=cisco"/></a>
+<a href="https://www.credly.com/badges/78833219-27ed-4405-a6b5-3f7baf7091ee/public_url"><img alt="Cisco DevNet Professional" src="https://img.shields.io/badge/CCNP-R&S-05122A?style=for-the-badge&logo=cisco"/></a>
 
 ### 🛠️ My Tech Stack
 These are the technologies and languages I use often and have proficiency in.
